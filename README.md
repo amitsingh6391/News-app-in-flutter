@@ -1,7 +1,6 @@
-# Railway app in flutter
+#News app in flutter
 
-Inside this app we can fetch the live train status by using train number and we chek the pnr status by using public api
-
+Inside this app we can fetch the latest news according to category
 ## Getting Started
 
 This project is a starting point for a Flutter application.
