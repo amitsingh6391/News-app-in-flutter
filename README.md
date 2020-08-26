@@ -1,6 +1,6 @@
-# snakegame
+# Railway app in flutter
 
-A new Flutter project.
+Inside this app we can fetch the live train status by using train number and we chek the pnr status by using public api
 
 ## Getting Started
 
